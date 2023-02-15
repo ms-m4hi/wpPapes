@@ -7,7 +7,7 @@
 * [💡 What we do](overview/what-we-do/README.md)
   * [✨ 06/01/2022 Mint Start](overview/what-we-do/06-01-2022-mint-start/README.md)
     * [⬇ How to mint](overview/what-we-do/06-01-2022-mint-start/how-to-mint.md)
-* [🕊 big occurrence](overview/big-occurrence.md)
+* [🕊 Big occurrence](overview/big-occurrence.md)
 * [🎇 Publish on Opensea](overview/publish-on-opensea.md)
 * [🔱 Metaverse NFT](overview/metaverse-nft.md)
 * [🔆 Big Update](overview/big-update.md)
